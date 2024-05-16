@@ -1,0 +1,82 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 13
+Unsafe
+
+#Start
+
+read map
+
+read beg0-beggym
+
+  20
+   1,J
+  30
+   1,J
+  45
+
+read beginner_gym
+
+  20
+   1,J
+  45
+
+read library-intgym
+
+  20
+   1,J
+  30
+   1,J
+  45
+
+read intermediate_gym
+
+  20
+   1,J
+  45
+
+read library-advgym
+
+  20
+   1,J
+  30
+   1,J
+  45
+
+read advanced_gym
+
+  20
+   1,J
+  45
+
+read library-expgym
+
+  20
+   1,J
+  30
+   1,J
+  45
+
+read expert_gym
+
+  20
+   1,J
+  45
+
+read library-gmgym
+
+  20
+   1,J
+  30
+   1,J
+  45
+
+read grandmaster_gym
+
+  20
+   1,J
+  45
+
+
+FileTime: 7:10.015(25295)
