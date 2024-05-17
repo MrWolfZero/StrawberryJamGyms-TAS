@@ -133,8 +133,7 @@ console load StrawberryJam2021/0-Gyms/3-Advanced
    2,R
    1,R,J
    1,R,K
-   1,R
-   1,R
+   2,R
   16,R,D,X
 
 #lvl_1-hub (2)
@@ -500,8 +499,7 @@ console load StrawberryJam2021/0-Gyms/3-Advanced
    9,R,J
   32,R,D
   10,L,D,X
-  30,R,J
-   6,R,J
+  36,R,J
    6,R,D
   24,R,U,X
    6,R,Z
@@ -701,5 +699,7 @@ console load StrawberryJam2021/0-Gyms/3-Advanced
    1,L,J
    8,L
    1,L,N
+  20
+   1,L,J
 
-#1:13.950(4350)
+FileTime: 1:14.919(4407)

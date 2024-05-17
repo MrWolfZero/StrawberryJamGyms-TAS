@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 1181
+RecordCount: 1199
 
 console load StrawberryJam2021/0-Gyms/2-Intermediate
    1
@@ -21,8 +21,6 @@ console load StrawberryJam2021/0-Gyms/2-Intermediate
    9,L,D,X
 
 #lvl_5-super
-## IDK its slow lol
-### route 1
    5,R
    1,J
    6,R,Z
@@ -664,8 +662,7 @@ endrepeat
    2,L,J
    8,L
    1,L,N
+  20
+   1,J
 
-#1:13.644(4332)
-
-
-
+FileTime: 1:14.613(4389)
